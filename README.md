@@ -1,2 +1,2 @@
 # learn-react-native
-practice from React Native book
+practices from React Native book
